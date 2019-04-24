@@ -1,0 +1,117 @@
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\bin\Debug\SMSApp.exe.config
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\bin\Debug\SMSApp.exe
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\bin\Debug\SMSApp.pdb
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.csprojResolveAssemblyReference.cache
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.ItemSetupUi.resources
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.MainFormUi.resources
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.Properties.Resources.resources
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.StockInUi.resources
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.StockOutUi.resources
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.csproj.GenerateResource.Cache
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.exe
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.pdb
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.CategorySetupUi.resources
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.CompanySetupUi.resources
+E:\Educational\BITM\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.EditCategoryUi.resources
+E:\Educational\BITM\Project\StarCoder-master\SMSApp\SMSApp\bin\Debug\SMSApp.exe.config
+E:\Educational\BITM\Project\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.exe
+E:\Educational\BITM\Project\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.pdb
+G:\StarCoder-master\SMSApp\SMSApp\bin\Debug\SMSApp.exe.config
+G:\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.exe
+G:\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.pdb
+G:\StarCoder-master\SMSApp\SMSApp\bin\Debug\SMSApp.exe
+G:\StarCoder-master\SMSApp\SMSApp\bin\Debug\SMSApp.pdb
+G:\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.csprojResolveAssemblyReference.cache
+G:\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.CategorySetupUi.resources
+G:\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.CompanySetupUi.resources
+G:\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.EditCategoryUi.resources
+G:\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.ItemSetupUi.resources
+G:\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.MainFormUi.resources
+G:\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.Properties.Resources.resources
+G:\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.StockInUi.resources
+G:\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.StockOutUi.resources
+G:\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.csproj.GenerateResource.Cache
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\bin\Debug\SMSApp.exe.config
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.exe
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.pdb
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\bin\Debug\SMSApp.exe
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\bin\Debug\SMSApp.pdb
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.csprojResolveAssemblyReference.cache
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.CategorySetupUi.resources
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.CompanySetupUi.resources
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.EditCategoryUi.resources
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.ItemSetupUi.resources
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.MainFormUi.resources
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.Properties.Resources.resources
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.StockInUi.resources
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.csproj.GenerateResource.Cache
+E:\Programing\C#\AspDotNet\Class Plactics\StarCoder-master\SMSApp\SMSApp\obj\Debug\SMSApp.StockOutUi.resources
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\bin\Debug\SMSApp.exe.config
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.exe
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.pdb
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\bin\Debug\SMSApp.exe
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\bin\Debug\SMSApp.pdb
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.CategorySetupUi.resources
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.CompanySetupUi.resources
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.ItemSetupUi.resources
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.MainFormUi.resources
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.Properties.Resources.resources
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.StockInUi.resources
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.StockOutUi.resources
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.csproj.GenerateResource.Cache
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.SearchItemViewUi.resources
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.SearchSalesViewUi.resources
+E:\Programing\C#\AspDotNet\SMSApp\SMSApp\obj\Debug\SMSApp.csprojResolveAssemblyReference.cache
+E:\Mehedi\SMSApp\SMSApp\bin\Debug\SMSApp.exe.config
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.exe
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.pdb
+E:\Mehedi\SMSApp\SMSApp\bin\Debug\SMSApp.exe
+E:\Mehedi\SMSApp\SMSApp\bin\Debug\SMSApp.pdb
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.CategorySetupUi.resources
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.CompanySetupUi.resources
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.EditCategoryUi.resources
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.SearchItemViewUi.resources
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.ItemSetupUi.resources
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.MainFormUi.resources
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.Properties.Resources.resources
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.StockInUi.resources
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.StockOutUi.resources
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.SearchSalesViewUi.resources
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.csproj.GenerateResource.Cache
+E:\Mehedi\SMSApp\SMSApp\obj\Debug\SMSApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\bin\Debug\SMSApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.exe
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.pdb
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\bin\Debug\SMSApp.exe
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\bin\Debug\SMSApp.pdb
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.CategorySetupUi.resources
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.CompanySetupUi.resources
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.EditCategoryUi.resources
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.SearchItemViewUi.resources
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.ItemSetupUi.resources
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.MainFormUi.resources
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.StockInUi.resources
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.StockOutUi.resources
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.SearchSalesViewUi.resources
+C:\Users\Web App Develop .Net\Desktop\project\SMSApp\SMSApp\obj\Debug\SMSApp.csproj.GenerateResource.Cache
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.CategorySetupUi.resources
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.CompanySetupUi.resources
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.SearchItemViewUi.resources
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.ItemSetupUi.resources
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.MainFormUi.resources
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.Properties.Resources.resources
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.StockInUi.resources
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.StockOutUi.resources
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.SearchSalesViewUi.resources
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.csproj.GenerateResource.Cache
+E:\Development\SMSApp\SMSApp\bin\Debug\SMSApp.exe.config
+E:\Development\SMSApp\SMSApp\bin\Debug\SMSApp.exe
+E:\Development\SMSApp\SMSApp\bin\Debug\SMSApp.pdb
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.exe
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.pdb
+E:\Development\SMSApp\SMSApp\obj\Debug\SMSApp.csprojResolveAssemblyReference.cache
+E:\Educational\BITM\Complete Project\SMSApp\SMSApp\bin\Debug\SMSApp.exe.config
+E:\Educational\BITM\Complete Project\SMSApp\SMSApp\obj\Debug\SMSApp.exe
+E:\Educational\BITM\Complete Project\SMSApp\SMSApp\obj\Debug\SMSApp.pdb
